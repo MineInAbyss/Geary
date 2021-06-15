@@ -76,8 +76,8 @@ public class AtPlayerTargetBlock(
             val block = if (onFace)
                 player.getLastTwoTargetBlocks(null, maxDist).first()
             else
-                player.getTargetBlock(maxDist) ?: return null
-            if (!allowAir && block.isEmpty) return null
+                player.getTargetBlockExact(maxDist) ?: return null
+            if (!allowAir && !block.isEmpty) return null
             return block.location
         }
         return null
