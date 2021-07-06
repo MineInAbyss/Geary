@@ -1,0 +1,83 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.mineinabyss.geary.ecs.actions.components////PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.components/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.components/AddComponentAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.components/-add-component-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.components/AddComponentAction/AddComponentAction/#kotlin.collections.Set[kotlin.Any]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.components/-add-component-action/-add-component-action.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.components/RemoveComponentAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.components/-remove-component-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.components/RemoveComponentAction/RemoveComponentAction/#kotlin.collections.Set[kotlin.String]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.components/-remove-component-action/-remove-component-action.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context////PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToParentAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-parent-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToParentAction/SwitchToParentAction/#kotlin.collections.List[com.mineinabyss.geary.ecs.api.actions.GearyAction]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-parent-action/-switch-to-parent-action.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToParentAction/wrapped/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-parent-action/wrapped.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToParentSerializer///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-parent-serializer/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToSourceAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-source-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToSourceAction/SwitchToSourceAction/#kotlin.collections.List[com.mineinabyss.geary.ecs.api.actions.GearyAction]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-source-action/-switch-to-source-action.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToSourceAction/wrapped/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-source-action/wrapped.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToSourceSerializer///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-source-serializer/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToTargetAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-target-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToTargetAction/SwitchToTargetAction/#kotlin.collections.List[com.mineinabyss.geary.ecs.api.actions.GearyAction]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-target-action/-switch-to-target-action.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToTargetAction/wrapped/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-target-action/wrapped.html
+$dokka.location:com.mineinabyss.geary.ecs.actions.context/SwitchToTargetSerializer///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions.context/-switch-to-target-serializer/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions////PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/CancelEventAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-cancel-event-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/CancelEventAction/CancelEventAction/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-cancel-event-action/-cancel-event-action.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/ConditionalAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-conditional-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/ConditionalAction/ConditionalAction/#kotlin.collections.List[com.mineinabyss.geary.ecs.api.conditions.GearyCondition]#kotlin.collections.List[com.mineinabyss.geary.ecs.api.actions.GearyAction]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-conditional-action/-conditional-action.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/CooldownAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-cooldown-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/CooldownAction/CooldownAction/#com.mineinabyss.idofront.time.TimeSpan#kotlin.collections.List[com.mineinabyss.geary.ecs.api.actions.GearyAction]#kotlin.String?/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-cooldown-action/-cooldown-action.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/CooldownAction/_name/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-cooldown-action/_name.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/DebugAction///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-debug-action/index.html
+$dokka.location:com.mineinabyss.geary.ecs.actions/DebugAction/DebugAction/#kotlin.String/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.actions/-debug-action/-debug-action.html
+$dokka.location:com.mineinabyss.geary.ecs.components////PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Cooldown///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Cooldown/Cooldown/#kotlin.Long/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown/-cooldown.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Cooldown/endTime/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown/end-time.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Cooldown/length/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown/length.html
+$dokka.location:com.mineinabyss.geary.ecs.components/CooldownManager///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown-manager/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/CooldownManager/CooldownManager/#kotlin.collections.MutableMap[kotlin.String,com.mineinabyss.geary.ecs.components.Cooldown]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown-manager/-cooldown-manager.html
+$dokka.location:com.mineinabyss.geary.ecs.components/CooldownManager/incompleteCooldowns/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown-manager/incomplete-cooldowns.html
+$dokka.location:com.mineinabyss.geary.ecs.components/CooldownManager/isDone/#kotlin.String/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown-manager/is-done.html
+$dokka.location:com.mineinabyss.geary.ecs.components/CooldownManager/onCooldown/#kotlin.String#kotlin.Long#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown-manager/on-cooldown.html
+$dokka.location:com.mineinabyss.geary.ecs.components/CooldownManager/onCooldownIf/#kotlin.String#kotlin.Long#kotlin.Function0[kotlin.Boolean]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown-manager/on-cooldown-if.html
+$dokka.location:com.mineinabyss.geary.ecs.components/CooldownManager/reset/#kotlin.String/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown-manager/reset.html
+$dokka.location:com.mineinabyss.geary.ecs.components/CooldownManager/start/#kotlin.String#kotlin.Long/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-cooldown-manager/start.html
+$dokka.location:com.mineinabyss.geary.ecs.components/DebugComponent///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-debug-component/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/DebugComponent/DebugComponent/#kotlin.String/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-debug-component/-debug-component.html
+$dokka.location:com.mineinabyss.geary.ecs.components/DebugComponent/message/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-debug-component/message.html
+$dokka.location:com.mineinabyss.geary.ecs.components/DebugComponent/timestamp/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-debug-component/timestamp.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Expiry///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-expiry/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Expiry/Expiry/#com.mineinabyss.idofront.time.TimeSpan/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-expiry/-expiry.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Expiry/component1/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-expiry/component1.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Expiry/duration/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-expiry/duration.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Expiry/endTime/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-expiry/end-time.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Expiry/timeOver/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-expiry/time-over.html
+$dokka.location:com.mineinabyss.geary.ecs.components/PassiveActionsComponent///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-passive-actions-component/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/PassiveActionsComponent/PassiveActionsComponent/#kotlin.collections.List[com.mineinabyss.geary.ecs.api.actions.GearyAction]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-passive-actions-component/-passive-actions-component.html
+$dokka.location:com.mineinabyss.geary.ecs.components/PassiveActionsComponent/wrapped/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-passive-actions-component/wrapped.html
+$dokka.location:com.mineinabyss.geary.ecs.components/PassiveActionsSerializer///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-passive-actions-serializer/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Source///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-source/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Source/Source/#com.mineinabyss.geary.ecs.api.entities.GearyEntity/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-source/-source.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Source/entity/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-source/entity.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Target///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-target/index.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Target/Target/#com.mineinabyss.geary.ecs.api.entities.GearyEntity/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-target/-target.html
+$dokka.location:com.mineinabyss.geary.ecs.components/Target/entity/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.components/-target/entity.html
+$dokka.location:com.mineinabyss.geary.ecs.conditions////PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.conditions/index.html
+$dokka.location:com.mineinabyss.geary.ecs.conditions/EntityComponentConditions///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.conditions/-entity-component-conditions/index.html
+$dokka.location:com.mineinabyss.geary.ecs.conditions/EntityComponentConditions/EntityComponentConditions/#kotlin.collections.Set[kotlin.String]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.conditions/-entity-component-conditions/-entity-component-conditions.html
+$dokka.location:com.mineinabyss.geary.ecs.conditions/EntityComponentConditions/componentNames/#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.conditions/-entity-component-conditions/component-names.html
+$dokka.location:com.mineinabyss.geary.ecs.helper////PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.helper/index.html
+$dokka.location:com.mineinabyss.geary.ecs.helper//toComponentClasses/kotlin.collections.Collection[kotlin.String]#/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.helper/to-component-classes.html
+$dokka.location:com.mineinabyss.geary.ecs.properties////PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.properties/index.html
+$dokka.location:com.mineinabyss.geary.ecs.properties//notNull/com.mineinabyss.geary.ecs.api.properties.EntityPropertyHolder#kotlin.Function1[com.mineinabyss.geary.ecs.api.entities.GearyEntity,TypeParam(bounds=[kotlin.Any])?]/PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.properties/not-null.html
+$dokka.location:com.mineinabyss.geary.ecs.systems////PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.systems/index.html
+$dokka.location:com.mineinabyss.geary.ecs.systems/ExpiringComponentSystem///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.systems/-expiring-component-system/index.html
+$dokka.location:com.mineinabyss.geary.ecs.systems/PassiveActionsSystem///PointingToDeclaration/geary-components/com.mineinabyss.geary.ecs.systems/-passive-actions-system/index.html
+com.mineinabyss.geary.ecs.actions
+com.mineinabyss.geary.ecs.actions.components
+com.mineinabyss.geary.ecs.actions.context
+com.mineinabyss.geary.ecs.components
+com.mineinabyss.geary.ecs.conditions
+com.mineinabyss.geary.ecs.helper
+com.mineinabyss.geary.ecs.properties
+com.mineinabyss.geary.ecs.systems
+

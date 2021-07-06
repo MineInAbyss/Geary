@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":geary-spigot:geary-spigot-core:dokkaHtmlPartial/main":[],":geary-core:dokkaHtmlPartial/main":[],":geary-components:dokkaHtmlPartial/main":[],":geary-spigot:geary-spigot-components:dokkaHtmlPartial/main":[]}'
