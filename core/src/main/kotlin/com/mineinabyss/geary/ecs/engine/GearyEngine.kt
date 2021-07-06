@@ -49,7 +49,7 @@ public open class GearyEngine : TickingEngine() {
     }
 
     //TODO Proper pipeline with different stages
-    protected val registeredSystems: MutableSet<TickingSystem> = mutableSetOf()
+    protected val registeredSystems: MutableList<TickingSystem> = mutableListOf()
 
     override fun addSystem(system: TickingSystem): Boolean {
         QueryManager.trackQuery(system)

@@ -4,6 +4,7 @@ import com.mineinabyss.geary.ecs.actions.CancelEventAction
 import com.mineinabyss.geary.ecs.api.actions.GearyAction
 import com.mineinabyss.geary.ecs.api.autoscan.AutoscanComponent
 import com.mineinabyss.geary.ecs.api.entities.GearyEntity
+import com.mineinabyss.geary.ecs.components.EventsDisabledComponent
 import com.mineinabyss.geary.ecs.serialization.FlatSerializer
 import com.mineinabyss.geary.ecs.serialization.FlatWrap
 import kotlinx.serialization.Serializable
@@ -25,6 +26,8 @@ public object EventComponentSerializer : FlatSerializer<Events, Map<String, List
 )
 
 public fun Event.event(entity: GearyEntity?, name: String) {
+    if (entity?.has<EventsDisabledComponent>() == true) return
+
     entity?.get<Events>()?.wrapped?.get(name)?.forEach {
         it.runOn(entity)
         if (it is CancelEventAction && this is Cancellable)
